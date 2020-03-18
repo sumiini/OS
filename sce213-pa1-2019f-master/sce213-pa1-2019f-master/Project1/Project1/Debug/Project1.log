@@ -1,0 +1,2 @@
+﻿  pa1.c
+c:\users\hong sumin\desktop\운체\sce213-pa1-2019f-master\sce213-pa1-2019f-master\pa1.c(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'getopt.h': No such file or directory
