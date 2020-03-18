@@ -1,0 +1,80 @@
+﻿  pa2.c
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\list_head.h(12): warning C4005: 'offsetof': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stddef.h(45): note: 'offsetof'의 이전 정의를 참조하십시오.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(113): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(113): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(113): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(118): error C2065: 'waiter': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(118): error C2223: '->status' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(126): error C2065: 'waiter': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(126): error C2223: '->list' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(126): error C2198: 'list_del_init': 호출에 매개 변수가 너무 적습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(129): error C2065: 'waiter': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(129): error C2223: '->status' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(135): error C2065: 'waiter': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(135): error C2223: '->list' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(135): error C2198: 'list_add_tail': 호출에 매개 변수가 너무 적습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(137): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(188): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(188): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(188): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(199): error C2059: 구문 오류: 'return'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(200): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(232): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(232): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(232): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(234): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(234): warning C4013: '__typeof__'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(234): error C2059: 구문 오류: ')'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(234): error C2059: 구문 오류: '&'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(234): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(239): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(243): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(247): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(281): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(281): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(281): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(285): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(285): error C2059: 구문 오류: ')'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(285): error C2059: 구문 오류: '&'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(285): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(289): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(298): error C2059: 구문 오류: 'else'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(303): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(309): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(309): error C2059: 구문 오류: ':'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(338): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(377): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(377): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(377): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(378): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(378): error C2059: 구문 오류: ')'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(378): error C2059: 구문 오류: '&'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(378): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(386): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(400): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(445): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(445): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(445): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(447): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(447): error C2059: 구문 오류: ')'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(447): error C2059: 구문 오류: '&'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(447): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(452): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(454): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(456): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(489): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(489): error C2065: '__mptr': 선언되지 않은 식별자입니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(489): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(490): error C2059: 구문 오류: '{'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(490): error C2059: 구문 오류: ')'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(490): error C2059: 구문 오류: '&'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(490): error C2374: 'high_prio': 재정의. 여러 번 초기화했습니다.
+  c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(447): note: 'high_prio' 선언을 참조하십시오.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(490): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(495): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(497): error C2059: 구문 오류: '}'
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\pa2.c(499): error C2059: 구문 오류: '}'
+  sched.c
+c:\users\hong sumin\desktop\운체과제\sce213-pa2-2019f\sched.c(23): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
+  코드를 생성하고 있습니다...
